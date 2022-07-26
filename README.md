@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on [OrgSource](https://github.com/OrgSource)
-- 🌱 I’m currently refining JS
+- 🌱 I’m currently learning HTML/CSS and refining JS
 - 👯 I’m looking to collaborate on any open source projects!
 - 😄 Pronouns: he/him
 

@@ -1,3 +1,5 @@
+### Hi there 👋
+
 - 🌱 I’m currently learning HTML/CSS and refining NodeJS
 - 👯 I’m looking to collaborate on any open source projects!
 - 😄 Pronouns: he/him

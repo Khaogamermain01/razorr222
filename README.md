@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Mineflayer bots and Cards Against Humanity Clone<br>👯 I’m looking to collaborate on a Cards Against Humanity Clone<br>🤝 I’m looking for help with an open source ReactJS Cards Against Humanity<br>🌱 I’m currently learning ReactJS
+🔭 I’m currently working on Mineflayer bots and Cards Against Humanity Clone
+👯 I’m looking to collaborate on a Cards Against Humanity Clone
+🤝 I’m looking for help with an open source ReactJS Cards Against Humanity
+🌱 I’m currently learning ReactJS
 
 
 ## 🌐 Socials:
@@ -12,7 +15,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Razorr222&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Razorr222&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Razorr222&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ---

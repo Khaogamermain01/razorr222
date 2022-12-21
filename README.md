@@ -1,8 +1,8 @@
 # 💫 About Me:
 <br>🔭 I’m currently working on Mineflayer bots and Cards Against Humanity Clone
 <br>👯 I’m looking to collaborate on a Cards Against Humanity Clone
-🤝 I’m looking for help with an open source ReactJS Cards Against Humanity
-🌱 I’m currently learning ReactJS
+<br>🤝 I’m looking for help with an open source ReactJS Cards Against Humanity
+<br>🌱 I’m currently learning ReactJS
 
 
 ## 🌐 Socials:

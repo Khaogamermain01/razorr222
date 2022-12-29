@@ -1,7 +1,7 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on Mineflayer bots and [Cards Against Humanity Clone](https://github.com/CustomCardsAgaisntHumanity)
-<br>👯 I’m looking to collaborate on a [Cards Against Humanity Clone](https://github.com/CustomCardsAgaisntHumanity)
-<br>🤝 I’m looking for help with an open source ReactJS [Cards Against Humanity](https://github.com/CustomCardsAgaisntHumanity)
+<br>🔭 I’m currently working on Mineflayer bots and [Cards Against Humanity Clone](https://github.com/CustomCardsAgainstHumanity)
+<br>👯 I’m looking to collaborate on a [Cards Against Humanity Clone](https://github.com/CustomCardsAgainstHumanity)
+<br>🤝 I’m looking for help with an open source ExpressJS [Cards Against Humanity Clone](https://github.com/CustomCardsAgainstHumanity)
 <br>🌱 I’m currently learning ReactJS
 
 
